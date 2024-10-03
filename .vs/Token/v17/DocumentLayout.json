@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes\\source\\repos\\Token\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B5EE7B-2580-4EDE-8952-53AA96186768}|Token\\Token.csproj|c:\\users\\enes\\source\\repos\\token\\token\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93B5EE7B-2580-4EDE-8952-53AA96186768}|Token\\Token.csproj|solutionrelative:token\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B5EE7B-2580-4EDE-8952-53AA96186768}|Token\\Token.csproj|c:\\users\\enes\\source\\repos\\token\\token\\security\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B5EE7B-2580-4EDE-8952-53AA96186768}|Token\\Token.csproj|solutionrelative:token\\security\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B5EE7B-2580-4EDE-8952-53AA96186768}|Token\\Token.csproj|c:\\users\\enes\\source\\repos\\token\\token\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B5EE7B-2580-4EDE-8952-53AA96186768}|Token\\Token.csproj|solutionrelative:token\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B5EE7B-2580-4EDE-8952-53AA96186768}|Token\\Token.csproj|c:\\users\\enes\\source\\repos\\token\\token\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B5EE7B-2580-4EDE-8952-53AA96186768}|Token\\Token.csproj|solutionrelative:token\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B5EE7B-2580-4EDE-8952-53AA96186768}|Token\\Token.csproj|c:\\users\\enes\\source\\repos\\token\\token\\security\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B5EE7B-2580-4EDE-8952-53AA96186768}|Token\\Token.csproj|solutionrelative:token\\security\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\Token\\Token\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Token\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Enes\\source\\repos\\Token\\Token\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Token\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:09:51.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\Token\\Token\\Security\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "Token\\Security\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\Enes\\source\\repos\\Token\\Token\\Security\\TokenHandler.cs",
+              "RelativeToolTip": "Token\\Security\\TokenHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:00:03.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\Token\\Token\\Security\\Token.cs",
+              "RelativeDocumentMoniker": "Token\\Security\\Token.cs",
+              "ToolTip": "C:\\Users\\Enes\\source\\repos\\Token\\Token\\Security\\Token.cs",
+              "RelativeToolTip": "Token\\Security\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:58:30.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\Token\\Token\\appsettings.json",
+              "RelativeDocumentMoniker": "Token\\appsettings.json",
+              "ToolTip": "C:\\Users\\Enes\\source\\repos\\Token\\Token\\appsettings.json",
+              "RelativeToolTip": "Token\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T09:52:05.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\Token\\Token\\Program.cs",
+              "RelativeDocumentMoniker": "Token\\Program.cs",
+              "ToolTip": "C:\\Users\\Enes\\source\\repos\\Token\\Token\\Program.cs",
+              "RelativeToolTip": "Token\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:48:35.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
